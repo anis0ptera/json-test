@@ -1,0 +1,2001 @@
+
+Total hd=true for page 1: 10
+Total hd=false for page 1: 0
+Total unassigned for page 1: 0
+
+Total hd=true for page 2: 10
+Total hd=false for page 2: 0
+Total unassigned for page 2: 0
+
+Total hd=true for page 3: 10
+Total hd=false for page 3: 0
+Total unassigned for page 3: 0
+
+Total hd=true for page 4: 10
+Total hd=false for page 4: 0
+Total unassigned for page 4: 0
+
+Total hd=true for page 5: 10
+Total hd=false for page 5: 0
+Total unassigned for page 5: 0
+
+Total hd=true for page 6: 10
+Total hd=false for page 6: 0
+Total unassigned for page 6: 0
+
+Total hd=true for page 7: 10
+Total hd=false for page 7: 0
+Total unassigned for page 7: 0
+
+Total hd=true for page 8: 10
+Total hd=false for page 8: 0
+Total unassigned for page 8: 0
+
+Total hd=true for page 9: 10
+Total hd=false for page 9: 0
+Total unassigned for page 9: 0
+
+Total hd=true for page 10: 10
+Total hd=false for page 10: 0
+Total unassigned for page 10: 0
+
+Total hd=true for page 11: 10
+Total hd=false for page 11: 0
+Total unassigned for page 11: 0
+
+Total hd=true for page 12: 10
+Total hd=false for page 12: 0
+Total unassigned for page 12: 0
+
+Total hd=true for page 13: 10
+Total hd=false for page 13: 0
+Total unassigned for page 13: 0
+
+Total hd=true for page 14: 10
+Total hd=false for page 14: 0
+Total unassigned for page 14: 0
+
+Total hd=true for page 15: 10
+Total hd=false for page 15: 0
+Total unassigned for page 15: 0
+
+Total hd=true for page 16: 10
+Total hd=false for page 16: 0
+Total unassigned for page 16: 0
+
+Total hd=true for page 17: 10
+Total hd=false for page 17: 0
+Total unassigned for page 17: 0
+
+Total hd=true for page 18: 10
+Total hd=false for page 18: 0
+Total unassigned for page 18: 0
+
+Total hd=true for page 19: 10
+Total hd=false for page 19: 0
+Total unassigned for page 19: 0
+
+Total hd=true for page 20: 10
+Total hd=false for page 20: 0
+Total unassigned for page 20: 0
+
+Total hd=true for page 21: 10
+Total hd=false for page 21: 0
+Total unassigned for page 21: 0
+
+Total hd=true for page 22: 10
+Total hd=false for page 22: 0
+Total unassigned for page 22: 0
+
+Total hd=true for page 23: 10
+Total hd=false for page 23: 0
+Total unassigned for page 23: 0
+
+Total hd=true for page 24: 10
+Total hd=false for page 24: 0
+Total unassigned for page 24: 0
+
+Total hd=true for page 25: 10
+Total hd=false for page 25: 0
+Total unassigned for page 25: 0
+
+Total hd=true for page 26: 10
+Total hd=false for page 26: 0
+Total unassigned for page 26: 0
+
+Total hd=true for page 27: 10
+Total hd=false for page 27: 0
+Total unassigned for page 27: 0
+
+Total hd=true for page 28: 10
+Total hd=false for page 28: 0
+Total unassigned for page 28: 0
+
+Total hd=true for page 29: 10
+Total hd=false for page 29: 0
+Total unassigned for page 29: 0
+
+Total hd=true for page 30: 10
+Total hd=false for page 30: 0
+Total unassigned for page 30: 0
+
+Total hd=true for page 31: 10
+Total hd=false for page 31: 0
+Total unassigned for page 31: 0
+
+Total hd=true for page 32: 10
+Total hd=false for page 32: 0
+Total unassigned for page 32: 0
+
+Total hd=true for page 33: 10
+Total hd=false for page 33: 0
+Total unassigned for page 33: 0
+
+Total hd=true for page 34: 10
+Total hd=false for page 34: 0
+Total unassigned for page 34: 0
+
+Total hd=true for page 35: 10
+Total hd=false for page 35: 0
+Total unassigned for page 35: 0
+
+Total hd=true for page 36: 10
+Total hd=false for page 36: 0
+Total unassigned for page 36: 0
+
+Total hd=true for page 37: 10
+Total hd=false for page 37: 0
+Total unassigned for page 37: 0
+
+Total hd=true for page 38: 10
+Total hd=false for page 38: 0
+Total unassigned for page 38: 0
+
+Total hd=true for page 39: 10
+Total hd=false for page 39: 0
+Total unassigned for page 39: 0
+
+Total hd=true for page 40: 10
+Total hd=false for page 40: 0
+Total unassigned for page 40: 0
+
+Total hd=true for page 41: 10
+Total hd=false for page 41: 0
+Total unassigned for page 41: 0
+
+Total hd=true for page 42: 10
+Total hd=false for page 42: 0
+Total unassigned for page 42: 0
+
+Total hd=true for page 43: 10
+Total hd=false for page 43: 0
+Total unassigned for page 43: 0
+
+Total hd=true for page 44: 10
+Total hd=false for page 44: 0
+Total unassigned for page 44: 0
+
+Total hd=true for page 45: 10
+Total hd=false for page 45: 0
+Total unassigned for page 45: 0
+
+Total hd=true for page 46: 9
+Total hd=false for page 46: 1
+Total unassigned for page 46: 0
+
+Total hd=true for page 47: 10
+Total hd=false for page 47: 0
+Total unassigned for page 47: 0
+
+Total hd=true for page 48: 10
+Total hd=false for page 48: 0
+Total unassigned for page 48: 0
+
+Total hd=true for page 49: 10
+Total hd=false for page 49: 0
+Total unassigned for page 49: 0
+
+Total hd=true for page 50: 10
+Total hd=false for page 50: 0
+Total unassigned for page 50: 0
+
+Total hd=true for page 51: 10
+Total hd=false for page 51: 0
+Total unassigned for page 51: 0
+
+Total hd=true for page 52: 10
+Total hd=false for page 52: 0
+Total unassigned for page 52: 0
+
+Total hd=true for page 53: 10
+Total hd=false for page 53: 0
+Total unassigned for page 53: 0
+
+Total hd=true for page 54: 10
+Total hd=false for page 54: 0
+Total unassigned for page 54: 0
+
+Total hd=true for page 55: 10
+Total hd=false for page 55: 0
+Total unassigned for page 55: 0
+
+Total hd=true for page 56: 10
+Total hd=false for page 56: 0
+Total unassigned for page 56: 0
+
+Total hd=true for page 57: 10
+Total hd=false for page 57: 0
+Total unassigned for page 57: 0
+
+Total hd=true for page 58: 10
+Total hd=false for page 58: 0
+Total unassigned for page 58: 0
+
+Total hd=true for page 59: 10
+Total hd=false for page 59: 0
+Total unassigned for page 59: 0
+
+Total hd=true for page 60: 10
+Total hd=false for page 60: 0
+Total unassigned for page 60: 0
+
+Total hd=true for page 61: 10
+Total hd=false for page 61: 0
+Total unassigned for page 61: 0
+
+Total hd=true for page 62: 10
+Total hd=false for page 62: 0
+Total unassigned for page 62: 0
+
+Total hd=true for page 63: 10
+Total hd=false for page 63: 0
+Total unassigned for page 63: 0
+
+Total hd=true for page 64: 10
+Total hd=false for page 64: 0
+Total unassigned for page 64: 0
+
+Total hd=true for page 65: 10
+Total hd=false for page 65: 0
+Total unassigned for page 65: 0
+
+Total hd=true for page 66: 10
+Total hd=false for page 66: 0
+Total unassigned for page 66: 0
+
+Total hd=true for page 67: 10
+Total hd=false for page 67: 0
+Total unassigned for page 67: 0
+
+Total hd=true for page 68: 10
+Total hd=false for page 68: 0
+Total unassigned for page 68: 0
+
+Total hd=true for page 69: 10
+Total hd=false for page 69: 0
+Total unassigned for page 69: 0
+
+Total hd=true for page 70: 10
+Total hd=false for page 70: 0
+Total unassigned for page 70: 0
+
+Total hd=true for page 71: 10
+Total hd=false for page 71: 0
+Total unassigned for page 71: 0
+
+Total hd=true for page 72: 10
+Total hd=false for page 72: 0
+Total unassigned for page 72: 0
+
+Total hd=true for page 73: 10
+Total hd=false for page 73: 0
+Total unassigned for page 73: 0
+
+Total hd=true for page 74: 10
+Total hd=false for page 74: 0
+Total unassigned for page 74: 0
+
+Total hd=true for page 75: 10
+Total hd=false for page 75: 0
+Total unassigned for page 75: 0
+
+Total hd=true for page 76: 10
+Total hd=false for page 76: 0
+Total unassigned for page 76: 0
+
+Total hd=true for page 77: 10
+Total hd=false for page 77: 0
+Total unassigned for page 77: 0
+
+Total hd=true for page 78: 10
+Total hd=false for page 78: 0
+Total unassigned for page 78: 0
+
+Total hd=true for page 79: 10
+Total hd=false for page 79: 0
+Total unassigned for page 79: 0
+
+Total hd=true for page 80: 10
+Total hd=false for page 80: 0
+Total unassigned for page 80: 0
+
+Total hd=true for page 81: 10
+Total hd=false for page 81: 0
+Total unassigned for page 81: 0
+
+Total hd=true for page 82: 10
+Total hd=false for page 82: 0
+Total unassigned for page 82: 0
+
+Total hd=true for page 83: 10
+Total hd=false for page 83: 0
+Total unassigned for page 83: 0
+
+Total hd=true for page 84: 10
+Total hd=false for page 84: 0
+Total unassigned for page 84: 0
+
+Total hd=true for page 85: 10
+Total hd=false for page 85: 0
+Total unassigned for page 85: 0
+
+Total hd=true for page 86: 10
+Total hd=false for page 86: 0
+Total unassigned for page 86: 0
+
+Total hd=true for page 87: 10
+Total hd=false for page 87: 0
+Total unassigned for page 87: 0
+
+Total hd=true for page 88: 10
+Total hd=false for page 88: 0
+Total unassigned for page 88: 0
+
+Total hd=true for page 89: 10
+Total hd=false for page 89: 0
+Total unassigned for page 89: 0
+
+Total hd=true for page 90: 10
+Total hd=false for page 90: 0
+Total unassigned for page 90: 0
+
+Total hd=true for page 91: 10
+Total hd=false for page 91: 0
+Total unassigned for page 91: 0
+
+Total hd=true for page 92: 10
+Total hd=false for page 92: 0
+Total unassigned for page 92: 0
+
+Total hd=true for page 93: 10
+Total hd=false for page 93: 0
+Total unassigned for page 93: 0
+
+Total hd=true for page 94: 10
+Total hd=false for page 94: 0
+Total unassigned for page 94: 0
+
+Total hd=true for page 95: 10
+Total hd=false for page 95: 0
+Total unassigned for page 95: 0
+
+Total hd=true for page 96: 10
+Total hd=false for page 96: 0
+Total unassigned for page 96: 0
+
+Total hd=true for page 97: 10
+Total hd=false for page 97: 0
+Total unassigned for page 97: 0
+
+Total hd=true for page 98: 10
+Total hd=false for page 98: 0
+Total unassigned for page 98: 0
+
+Total hd=true for page 99: 10
+Total hd=false for page 99: 0
+Total unassigned for page 99: 0
+
+Total hd=true for page 100: 10
+Total hd=false for page 100: 0
+Total unassigned for page 100: 0
+
+Total hd=true for page 101: 10
+Total hd=false for page 101: 0
+Total unassigned for page 101: 0
+
+Total hd=true for page 102: 10
+Total hd=false for page 102: 0
+Total unassigned for page 102: 0
+
+Total hd=true for page 103: 10
+Total hd=false for page 103: 0
+Total unassigned for page 103: 0
+
+Total hd=true for page 104: 10
+Total hd=false for page 104: 0
+Total unassigned for page 104: 0
+
+Total hd=true for page 105: 10
+Total hd=false for page 105: 0
+Total unassigned for page 105: 0
+
+Total hd=true for page 106: 10
+Total hd=false for page 106: 0
+Total unassigned for page 106: 0
+
+Total hd=true for page 107: 10
+Total hd=false for page 107: 0
+Total unassigned for page 107: 0
+
+Total hd=true for page 108: 10
+Total hd=false for page 108: 0
+Total unassigned for page 108: 0
+
+Total hd=true for page 109: 10
+Total hd=false for page 109: 0
+Total unassigned for page 109: 0
+
+Total hd=true for page 110: 10
+Total hd=false for page 110: 0
+Total unassigned for page 110: 0
+
+Total hd=true for page 111: 10
+Total hd=false for page 111: 0
+Total unassigned for page 111: 0
+
+Total hd=true for page 112: 10
+Total hd=false for page 112: 0
+Total unassigned for page 112: 0
+
+Total hd=true for page 113: 10
+Total hd=false for page 113: 0
+Total unassigned for page 113: 0
+
+Total hd=true for page 114: 10
+Total hd=false for page 114: 0
+Total unassigned for page 114: 0
+
+Total hd=true for page 115: 10
+Total hd=false for page 115: 0
+Total unassigned for page 115: 0
+
+Total hd=true for page 116: 10
+Total hd=false for page 116: 0
+Total unassigned for page 116: 0
+
+Total hd=true for page 117: 9
+Total hd=false for page 117: 1
+Total unassigned for page 117: 0
+
+Total hd=true for page 118: 10
+Total hd=false for page 118: 0
+Total unassigned for page 118: 0
+
+Total hd=true for page 119: 10
+Total hd=false for page 119: 0
+Total unassigned for page 119: 0
+
+Total hd=true for page 120: 10
+Total hd=false for page 120: 0
+Total unassigned for page 120: 0
+
+Total hd=true for page 121: 10
+Total hd=false for page 121: 0
+Total unassigned for page 121: 0
+
+Total hd=true for page 122: 10
+Total hd=false for page 122: 0
+Total unassigned for page 122: 0
+
+Total hd=true for page 123: 10
+Total hd=false for page 123: 0
+Total unassigned for page 123: 0
+
+Total hd=true for page 124: 10
+Total hd=false for page 124: 0
+Total unassigned for page 124: 0
+
+Total hd=true for page 125: 10
+Total hd=false for page 125: 0
+Total unassigned for page 125: 0
+
+Total hd=true for page 126: 10
+Total hd=false for page 126: 0
+Total unassigned for page 126: 0
+
+Total hd=true for page 127: 7
+Total hd=false for page 127: 3
+Total unassigned for page 127: 0
+
+Total hd=true for page 128: 10
+Total hd=false for page 128: 0
+Total unassigned for page 128: 0
+
+Total hd=true for page 129: 10
+Total hd=false for page 129: 0
+Total unassigned for page 129: 0
+
+Total hd=true for page 130: 10
+Total hd=false for page 130: 0
+Total unassigned for page 130: 0
+
+Total hd=true for page 131: 10
+Total hd=false for page 131: 0
+Total unassigned for page 131: 0
+
+Total hd=true for page 132: 10
+Total hd=false for page 132: 0
+Total unassigned for page 132: 0
+
+Total hd=true for page 133: 10
+Total hd=false for page 133: 0
+Total unassigned for page 133: 0
+
+Total hd=true for page 134: 10
+Total hd=false for page 134: 0
+Total unassigned for page 134: 0
+
+Total hd=true for page 135: 10
+Total hd=false for page 135: 0
+Total unassigned for page 135: 0
+
+Total hd=true for page 136: 10
+Total hd=false for page 136: 0
+Total unassigned for page 136: 0
+
+Total hd=true for page 137: 6
+Total hd=false for page 137: 4
+Total unassigned for page 137: 0
+
+Total hd=true for page 138: 7
+Total hd=false for page 138: 3
+Total unassigned for page 138: 0
+
+Total hd=true for page 139: 10
+Total hd=false for page 139: 0
+Total unassigned for page 139: 0
+
+Total hd=true for page 140: 10
+Total hd=false for page 140: 0
+Total unassigned for page 140: 0
+
+Total hd=true for page 141: 10
+Total hd=false for page 141: 0
+Total unassigned for page 141: 0
+
+Total hd=true for page 142: 10
+Total hd=false for page 142: 0
+Total unassigned for page 142: 0
+
+Total hd=true for page 143: 10
+Total hd=false for page 143: 0
+Total unassigned for page 143: 0
+
+Total hd=true for page 144: 10
+Total hd=false for page 144: 0
+Total unassigned for page 144: 0
+
+Total hd=true for page 145: 10
+Total hd=false for page 145: 0
+Total unassigned for page 145: 0
+
+Total hd=true for page 146: 10
+Total hd=false for page 146: 0
+Total unassigned for page 146: 0
+
+Total hd=true for page 147: 10
+Total hd=false for page 147: 0
+Total unassigned for page 147: 0
+
+Total hd=true for page 148: 10
+Total hd=false for page 148: 0
+Total unassigned for page 148: 0
+
+Total hd=true for page 149: 10
+Total hd=false for page 149: 0
+Total unassigned for page 149: 0
+
+Total hd=true for page 150: 10
+Total hd=false for page 150: 0
+Total unassigned for page 150: 0
+
+Total hd=true for page 151: 10
+Total hd=false for page 151: 0
+Total unassigned for page 151: 0
+
+Total hd=true for page 152: 10
+Total hd=false for page 152: 0
+Total unassigned for page 152: 0
+
+Total hd=true for page 153: 10
+Total hd=false for page 153: 0
+Total unassigned for page 153: 0
+
+Total hd=true for page 154: 10
+Total hd=false for page 154: 0
+Total unassigned for page 154: 0
+
+Total hd=true for page 155: 10
+Total hd=false for page 155: 0
+Total unassigned for page 155: 0
+
+Total hd=true for page 156: 10
+Total hd=false for page 156: 0
+Total unassigned for page 156: 0
+
+Total hd=true for page 157: 10
+Total hd=false for page 157: 0
+Total unassigned for page 157: 0
+
+Total hd=true for page 158: 10
+Total hd=false for page 158: 0
+Total unassigned for page 158: 0
+
+Total hd=true for page 159: 10
+Total hd=false for page 159: 0
+Total unassigned for page 159: 0
+
+Total hd=true for page 160: 10
+Total hd=false for page 160: 0
+Total unassigned for page 160: 0
+
+Total hd=true for page 161: 10
+Total hd=false for page 161: 0
+Total unassigned for page 161: 0
+
+Total hd=true for page 162: 10
+Total hd=false for page 162: 0
+Total unassigned for page 162: 0
+
+Total hd=true for page 163: 10
+Total hd=false for page 163: 0
+Total unassigned for page 163: 0
+
+Total hd=true for page 164: 10
+Total hd=false for page 164: 0
+Total unassigned for page 164: 0
+
+Total hd=true for page 165: 10
+Total hd=false for page 165: 0
+Total unassigned for page 165: 0
+
+Total hd=true for page 166: 10
+Total hd=false for page 166: 0
+Total unassigned for page 166: 0
+
+Total hd=true for page 167: 10
+Total hd=false for page 167: 0
+Total unassigned for page 167: 0
+
+Total hd=true for page 168: 10
+Total hd=false for page 168: 0
+Total unassigned for page 168: 0
+
+Total hd=true for page 169: 10
+Total hd=false for page 169: 0
+Total unassigned for page 169: 0
+
+Total hd=true for page 170: 10
+Total hd=false for page 170: 0
+Total unassigned for page 170: 0
+
+Total hd=true for page 171: 10
+Total hd=false for page 171: 0
+Total unassigned for page 171: 0
+
+Total hd=true for page 172: 10
+Total hd=false for page 172: 0
+Total unassigned for page 172: 0
+
+Total hd=true for page 173: 10
+Total hd=false for page 173: 0
+Total unassigned for page 173: 0
+
+Total hd=true for page 174: 10
+Total hd=false for page 174: 0
+Total unassigned for page 174: 0
+
+Total hd=true for page 175: 10
+Total hd=false for page 175: 0
+Total unassigned for page 175: 0
+
+Total hd=true for page 176: 10
+Total hd=false for page 176: 0
+Total unassigned for page 176: 0
+
+Total hd=true for page 177: 10
+Total hd=false for page 177: 0
+Total unassigned for page 177: 0
+
+Total hd=true for page 178: 10
+Total hd=false for page 178: 0
+Total unassigned for page 178: 0
+
+Total hd=true for page 179: 10
+Total hd=false for page 179: 0
+Total unassigned for page 179: 0
+
+Total hd=true for page 180: 10
+Total hd=false for page 180: 0
+Total unassigned for page 180: 0
+
+Total hd=true for page 181: 10
+Total hd=false for page 181: 0
+Total unassigned for page 181: 0
+
+Total hd=true for page 182: 10
+Total hd=false for page 182: 0
+Total unassigned for page 182: 0
+
+Total hd=true for page 183: 10
+Total hd=false for page 183: 0
+Total unassigned for page 183: 0
+
+Total hd=true for page 184: 10
+Total hd=false for page 184: 0
+Total unassigned for page 184: 0
+
+Total hd=true for page 185: 10
+Total hd=false for page 185: 0
+Total unassigned for page 185: 0
+
+Total hd=true for page 186: 10
+Total hd=false for page 186: 0
+Total unassigned for page 186: 0
+
+Total hd=true for page 187: 10
+Total hd=false for page 187: 0
+Total unassigned for page 187: 0
+
+Total hd=true for page 188: 10
+Total hd=false for page 188: 0
+Total unassigned for page 188: 0
+
+Total hd=true for page 189: 10
+Total hd=false for page 189: 0
+Total unassigned for page 189: 0
+
+Total hd=true for page 190: 10
+Total hd=false for page 190: 0
+Total unassigned for page 190: 0
+
+Total hd=true for page 191: 10
+Total hd=false for page 191: 0
+Total unassigned for page 191: 0
+
+Total hd=true for page 192: 10
+Total hd=false for page 192: 0
+Total unassigned for page 192: 0
+
+Total hd=true for page 193: 10
+Total hd=false for page 193: 0
+Total unassigned for page 193: 0
+
+Total hd=true for page 194: 10
+Total hd=false for page 194: 0
+Total unassigned for page 194: 0
+
+Total hd=true for page 195: 10
+Total hd=false for page 195: 0
+Total unassigned for page 195: 0
+
+Total hd=true for page 196: 10
+Total hd=false for page 196: 0
+Total unassigned for page 196: 0
+
+Total hd=true for page 197: 10
+Total hd=false for page 197: 0
+Total unassigned for page 197: 0
+
+Total hd=true for page 198: 10
+Total hd=false for page 198: 0
+Total unassigned for page 198: 0
+
+Total hd=true for page 199: 10
+Total hd=false for page 199: 0
+Total unassigned for page 199: 0
+
+Total hd=true for page 200: 10
+Total hd=false for page 200: 0
+Total unassigned for page 200: 0
+
+Total hd=true for page 201: 10
+Total hd=false for page 201: 0
+Total unassigned for page 201: 0
+
+Total hd=true for page 202: 10
+Total hd=false for page 202: 0
+Total unassigned for page 202: 0
+
+Total hd=true for page 203: 10
+Total hd=false for page 203: 0
+Total unassigned for page 203: 0
+
+Total hd=true for page 204: 10
+Total hd=false for page 204: 0
+Total unassigned for page 204: 0
+
+Total hd=true for page 205: 10
+Total hd=false for page 205: 0
+Total unassigned for page 205: 0
+
+Total hd=true for page 206: 10
+Total hd=false for page 206: 0
+Total unassigned for page 206: 0
+
+Total hd=true for page 207: 10
+Total hd=false for page 207: 0
+Total unassigned for page 207: 0
+
+Total hd=true for page 208: 10
+Total hd=false for page 208: 0
+Total unassigned for page 208: 0
+
+Total hd=true for page 209: 10
+Total hd=false for page 209: 0
+Total unassigned for page 209: 0
+
+Total hd=true for page 210: 10
+Total hd=false for page 210: 0
+Total unassigned for page 210: 0
+
+Total hd=true for page 211: 10
+Total hd=false for page 211: 0
+Total unassigned for page 211: 0
+
+Total hd=true for page 212: 10
+Total hd=false for page 212: 0
+Total unassigned for page 212: 0
+
+Total hd=true for page 213: 10
+Total hd=false for page 213: 0
+Total unassigned for page 213: 0
+
+Total hd=true for page 214: 10
+Total hd=false for page 214: 0
+Total unassigned for page 214: 0
+
+Total hd=true for page 215: 10
+Total hd=false for page 215: 0
+Total unassigned for page 215: 0
+
+Total hd=true for page 216: 10
+Total hd=false for page 216: 0
+Total unassigned for page 216: 0
+
+Total hd=true for page 217: 10
+Total hd=false for page 217: 0
+Total unassigned for page 217: 0
+
+Total hd=true for page 218: 10
+Total hd=false for page 218: 0
+Total unassigned for page 218: 0
+
+Total hd=true for page 219: 10
+Total hd=false for page 219: 0
+Total unassigned for page 219: 0
+
+Total hd=true for page 220: 10
+Total hd=false for page 220: 0
+Total unassigned for page 220: 0
+
+Total hd=true for page 221: 10
+Total hd=false for page 221: 0
+Total unassigned for page 221: 0
+
+Total hd=true for page 222: 10
+Total hd=false for page 222: 0
+Total unassigned for page 222: 0
+
+Total hd=true for page 223: 10
+Total hd=false for page 223: 0
+Total unassigned for page 223: 0
+
+Total hd=true for page 224: 10
+Total hd=false for page 224: 0
+Total unassigned for page 224: 0
+
+Total hd=true for page 225: 10
+Total hd=false for page 225: 0
+Total unassigned for page 225: 0
+
+Total hd=true for page 226: 10
+Total hd=false for page 226: 0
+Total unassigned for page 226: 0
+
+Total hd=true for page 227: 10
+Total hd=false for page 227: 0
+Total unassigned for page 227: 0
+
+Total hd=true for page 228: 10
+Total hd=false for page 228: 0
+Total unassigned for page 228: 0
+
+Total hd=true for page 229: 10
+Total hd=false for page 229: 0
+Total unassigned for page 229: 0
+
+Total hd=true for page 230: 10
+Total hd=false for page 230: 0
+Total unassigned for page 230: 0
+
+Total hd=true for page 231: 10
+Total hd=false for page 231: 0
+Total unassigned for page 231: 0
+
+Total hd=true for page 232: 10
+Total hd=false for page 232: 0
+Total unassigned for page 232: 0
+
+Total hd=true for page 233: 10
+Total hd=false for page 233: 0
+Total unassigned for page 233: 0
+
+Total hd=true for page 234: 10
+Total hd=false for page 234: 0
+Total unassigned for page 234: 0
+
+Total hd=true for page 235: 10
+Total hd=false for page 235: 0
+Total unassigned for page 235: 0
+
+Total hd=true for page 236: 10
+Total hd=false for page 236: 0
+Total unassigned for page 236: 0
+
+Total hd=true for page 237: 10
+Total hd=false for page 237: 0
+Total unassigned for page 237: 0
+
+Total hd=true for page 238: 10
+Total hd=false for page 238: 0
+Total unassigned for page 238: 0
+
+Total hd=true for page 239: 10
+Total hd=false for page 239: 0
+Total unassigned for page 239: 0
+
+Total hd=true for page 240: 10
+Total hd=false for page 240: 0
+Total unassigned for page 240: 0
+
+Total hd=true for page 241: 10
+Total hd=false for page 241: 0
+Total unassigned for page 241: 0
+
+Total hd=true for page 242: 10
+Total hd=false for page 242: 0
+Total unassigned for page 242: 0
+
+Total hd=true for page 243: 10
+Total hd=false for page 243: 0
+Total unassigned for page 243: 0
+
+Total hd=true for page 244: 10
+Total hd=false for page 244: 0
+Total unassigned for page 244: 0
+
+Total hd=true for page 245: 10
+Total hd=false for page 245: 0
+Total unassigned for page 245: 0
+
+Total hd=true for page 246: 10
+Total hd=false for page 246: 0
+Total unassigned for page 246: 0
+
+Total hd=true for page 247: 10
+Total hd=false for page 247: 0
+Total unassigned for page 247: 0
+
+Total hd=true for page 248: 10
+Total hd=false for page 248: 0
+Total unassigned for page 248: 0
+
+Total hd=true for page 249: 10
+Total hd=false for page 249: 0
+Total unassigned for page 249: 0
+
+Total hd=true for page 250: 10
+Total hd=false for page 250: 0
+Total unassigned for page 250: 0
+
+Total hd=true for page 251: 10
+Total hd=false for page 251: 0
+Total unassigned for page 251: 0
+
+Total hd=true for page 252: 10
+Total hd=false for page 252: 0
+Total unassigned for page 252: 0
+
+Total hd=true for page 253: 10
+Total hd=false for page 253: 0
+Total unassigned for page 253: 0
+
+Total hd=true for page 254: 10
+Total hd=false for page 254: 0
+Total unassigned for page 254: 0
+
+Total hd=true for page 255: 10
+Total hd=false for page 255: 0
+Total unassigned for page 255: 0
+
+Total hd=true for page 256: 10
+Total hd=false for page 256: 0
+Total unassigned for page 256: 0
+
+Total hd=true for page 257: 10
+Total hd=false for page 257: 0
+Total unassigned for page 257: 0
+
+Total hd=true for page 258: 10
+Total hd=false for page 258: 0
+Total unassigned for page 258: 0
+
+Total hd=true for page 259: 10
+Total hd=false for page 259: 0
+Total unassigned for page 259: 0
+
+Total hd=true for page 260: 10
+Total hd=false for page 260: 0
+Total unassigned for page 260: 0
+
+Total hd=true for page 261: 10
+Total hd=false for page 261: 0
+Total unassigned for page 261: 0
+
+Total hd=true for page 262: 10
+Total hd=false for page 262: 0
+Total unassigned for page 262: 0
+
+Total hd=true for page 263: 10
+Total hd=false for page 263: 0
+Total unassigned for page 263: 0
+
+Total hd=true for page 264: 10
+Total hd=false for page 264: 0
+Total unassigned for page 264: 0
+
+Total hd=true for page 265: 10
+Total hd=false for page 265: 0
+Total unassigned for page 265: 0
+
+Total hd=true for page 266: 10
+Total hd=false for page 266: 0
+Total unassigned for page 266: 0
+
+Total hd=true for page 267: 10
+Total hd=false for page 267: 0
+Total unassigned for page 267: 0
+
+Total hd=true for page 268: 10
+Total hd=false for page 268: 0
+Total unassigned for page 268: 0
+
+Total hd=true for page 269: 10
+Total hd=false for page 269: 0
+Total unassigned for page 269: 0
+
+Total hd=true for page 270: 10
+Total hd=false for page 270: 0
+Total unassigned for page 270: 0
+
+Total hd=true for page 271: 10
+Total hd=false for page 271: 0
+Total unassigned for page 271: 0
+
+Total hd=true for page 272: 10
+Total hd=false for page 272: 0
+Total unassigned for page 272: 0
+
+Total hd=true for page 273: 10
+Total hd=false for page 273: 0
+Total unassigned for page 273: 0
+
+Total hd=true for page 274: 10
+Total hd=false for page 274: 0
+Total unassigned for page 274: 0
+
+Total hd=true for page 275: 10
+Total hd=false for page 275: 0
+Total unassigned for page 275: 0
+
+Total hd=true for page 276: 10
+Total hd=false for page 276: 0
+Total unassigned for page 276: 0
+
+Total hd=true for page 277: 10
+Total hd=false for page 277: 0
+Total unassigned for page 277: 0
+
+Total hd=true for page 278: 10
+Total hd=false for page 278: 0
+Total unassigned for page 278: 0
+
+Total hd=true for page 279: 10
+Total hd=false for page 279: 0
+Total unassigned for page 279: 0
+
+Total hd=true for page 280: 10
+Total hd=false for page 280: 0
+Total unassigned for page 280: 0
+
+Total hd=true for page 281: 10
+Total hd=false for page 281: 0
+Total unassigned for page 281: 0
+
+Total hd=true for page 282: 10
+Total hd=false for page 282: 0
+Total unassigned for page 282: 0
+
+Total hd=true for page 283: 10
+Total hd=false for page 283: 0
+Total unassigned for page 283: 0
+
+Total hd=true for page 284: 10
+Total hd=false for page 284: 0
+Total unassigned for page 284: 0
+
+Total hd=true for page 285: 10
+Total hd=false for page 285: 0
+Total unassigned for page 285: 0
+
+Total hd=true for page 286: 10
+Total hd=false for page 286: 0
+Total unassigned for page 286: 0
+
+Total hd=true for page 287: 10
+Total hd=false for page 287: 0
+Total unassigned for page 287: 0
+
+Total hd=true for page 288: 10
+Total hd=false for page 288: 0
+Total unassigned for page 288: 0
+
+Total hd=true for page 289: 10
+Total hd=false for page 289: 0
+Total unassigned for page 289: 0
+
+Total hd=true for page 290: 10
+Total hd=false for page 290: 0
+Total unassigned for page 290: 0
+
+Total hd=true for page 291: 10
+Total hd=false for page 291: 0
+Total unassigned for page 291: 0
+
+Total hd=true for page 292: 10
+Total hd=false for page 292: 0
+Total unassigned for page 292: 0
+
+Total hd=true for page 293: 10
+Total hd=false for page 293: 0
+Total unassigned for page 293: 0
+
+Total hd=true for page 294: 10
+Total hd=false for page 294: 0
+Total unassigned for page 294: 0
+
+Total hd=true for page 295: 10
+Total hd=false for page 295: 0
+Total unassigned for page 295: 0
+
+Total hd=true for page 296: 10
+Total hd=false for page 296: 0
+Total unassigned for page 296: 0
+
+Total hd=true for page 297: 10
+Total hd=false for page 297: 0
+Total unassigned for page 297: 0
+
+Total hd=true for page 298: 10
+Total hd=false for page 298: 0
+Total unassigned for page 298: 0
+
+Total hd=true for page 299: 10
+Total hd=false for page 299: 0
+Total unassigned for page 299: 0
+
+Total hd=true for page 300: 10
+Total hd=false for page 300: 0
+Total unassigned for page 300: 0
+
+Total hd=true for page 301: 10
+Total hd=false for page 301: 0
+Total unassigned for page 301: 0
+
+Total hd=true for page 302: 10
+Total hd=false for page 302: 0
+Total unassigned for page 302: 0
+
+Total hd=true for page 303: 10
+Total hd=false for page 303: 0
+Total unassigned for page 303: 0
+
+Total hd=true for page 304: 10
+Total hd=false for page 304: 0
+Total unassigned for page 304: 0
+
+Total hd=true for page 305: 10
+Total hd=false for page 305: 0
+Total unassigned for page 305: 0
+
+Total hd=true for page 306: 10
+Total hd=false for page 306: 0
+Total unassigned for page 306: 0
+
+Total hd=true for page 307: 10
+Total hd=false for page 307: 0
+Total unassigned for page 307: 0
+
+Total hd=true for page 308: 10
+Total hd=false for page 308: 0
+Total unassigned for page 308: 0
+
+Total hd=true for page 309: 10
+Total hd=false for page 309: 0
+Total unassigned for page 309: 0
+
+Total hd=true for page 310: 10
+Total hd=false for page 310: 0
+Total unassigned for page 310: 0
+
+Total hd=true for page 311: 10
+Total hd=false for page 311: 0
+Total unassigned for page 311: 0
+
+Total hd=true for page 312: 10
+Total hd=false for page 312: 0
+Total unassigned for page 312: 0
+
+Total hd=true for page 313: 10
+Total hd=false for page 313: 0
+Total unassigned for page 313: 0
+
+Total hd=true for page 314: 10
+Total hd=false for page 314: 0
+Total unassigned for page 314: 0
+
+Total hd=true for page 315: 10
+Total hd=false for page 315: 0
+Total unassigned for page 315: 0
+
+Total hd=true for page 316: 10
+Total hd=false for page 316: 0
+Total unassigned for page 316: 0
+
+Total hd=true for page 317: 10
+Total hd=false for page 317: 0
+Total unassigned for page 317: 0
+
+Total hd=true for page 318: 10
+Total hd=false for page 318: 0
+Total unassigned for page 318: 0
+
+Total hd=true for page 319: 10
+Total hd=false for page 319: 0
+Total unassigned for page 319: 0
+
+Total hd=true for page 320: 10
+Total hd=false for page 320: 0
+Total unassigned for page 320: 0
+
+Total hd=true for page 321: 10
+Total hd=false for page 321: 0
+Total unassigned for page 321: 0
+
+Total hd=true for page 322: 10
+Total hd=false for page 322: 0
+Total unassigned for page 322: 0
+
+Total hd=true for page 323: 10
+Total hd=false for page 323: 0
+Total unassigned for page 323: 0
+
+Total hd=true for page 324: 10
+Total hd=false for page 324: 0
+Total unassigned for page 324: 0
+
+Total hd=true for page 325: 10
+Total hd=false for page 325: 0
+Total unassigned for page 325: 0
+
+Total hd=true for page 326: 10
+Total hd=false for page 326: 0
+Total unassigned for page 326: 0
+
+Total hd=true for page 327: 10
+Total hd=false for page 327: 0
+Total unassigned for page 327: 0
+
+Total hd=true for page 328: 10
+Total hd=false for page 328: 0
+Total unassigned for page 328: 0
+
+Total hd=true for page 329: 10
+Total hd=false for page 329: 0
+Total unassigned for page 329: 0
+
+Total hd=true for page 330: 10
+Total hd=false for page 330: 0
+Total unassigned for page 330: 0
+
+Total hd=true for page 331: 10
+Total hd=false for page 331: 0
+Total unassigned for page 331: 0
+
+Total hd=true for page 332: 10
+Total hd=false for page 332: 0
+Total unassigned for page 332: 0
+
+Total hd=true for page 333: 10
+Total hd=false for page 333: 0
+Total unassigned for page 333: 0
+
+Total hd=true for page 334: 10
+Total hd=false for page 334: 0
+Total unassigned for page 334: 0
+
+Total hd=true for page 335: 10
+Total hd=false for page 335: 0
+Total unassigned for page 335: 0
+
+Total hd=true for page 336: 10
+Total hd=false for page 336: 0
+Total unassigned for page 336: 0
+
+Total hd=true for page 337: 10
+Total hd=false for page 337: 0
+Total unassigned for page 337: 0
+
+Total hd=true for page 338: 10
+Total hd=false for page 338: 0
+Total unassigned for page 338: 0
+
+Total hd=true for page 339: 10
+Total hd=false for page 339: 0
+Total unassigned for page 339: 0
+
+Total hd=true for page 340: 10
+Total hd=false for page 340: 0
+Total unassigned for page 340: 0
+
+Total hd=true for page 341: 10
+Total hd=false for page 341: 0
+Total unassigned for page 341: 0
+
+Total hd=true for page 342: 10
+Total hd=false for page 342: 0
+Total unassigned for page 342: 0
+
+Total hd=true for page 343: 10
+Total hd=false for page 343: 0
+Total unassigned for page 343: 0
+
+Total hd=true for page 344: 10
+Total hd=false for page 344: 0
+Total unassigned for page 344: 0
+
+Total hd=true for page 345: 10
+Total hd=false for page 345: 0
+Total unassigned for page 345: 0
+
+Total hd=true for page 346: 10
+Total hd=false for page 346: 0
+Total unassigned for page 346: 0
+
+Total hd=true for page 347: 10
+Total hd=false for page 347: 0
+Total unassigned for page 347: 0
+
+Total hd=true for page 348: 10
+Total hd=false for page 348: 0
+Total unassigned for page 348: 0
+
+Total hd=true for page 349: 10
+Total hd=false for page 349: 0
+Total unassigned for page 349: 0
+
+Total hd=true for page 350: 10
+Total hd=false for page 350: 0
+Total unassigned for page 350: 0
+
+Total hd=true for page 351: 10
+Total hd=false for page 351: 0
+Total unassigned for page 351: 0
+
+Total hd=true for page 352: 10
+Total hd=false for page 352: 0
+Total unassigned for page 352: 0
+
+Total hd=true for page 353: 10
+Total hd=false for page 353: 0
+Total unassigned for page 353: 0
+
+Total hd=true for page 354: 10
+Total hd=false for page 354: 0
+Total unassigned for page 354: 0
+
+Total hd=true for page 355: 10
+Total hd=false for page 355: 0
+Total unassigned for page 355: 0
+
+Total hd=true for page 356: 10
+Total hd=false for page 356: 0
+Total unassigned for page 356: 0
+
+Total hd=true for page 357: 10
+Total hd=false for page 357: 0
+Total unassigned for page 357: 0
+
+Total hd=true for page 358: 10
+Total hd=false for page 358: 0
+Total unassigned for page 358: 0
+
+Total hd=true for page 359: 10
+Total hd=false for page 359: 0
+Total unassigned for page 359: 0
+
+Total hd=true for page 360: 10
+Total hd=false for page 360: 0
+Total unassigned for page 360: 0
+
+Total hd=true for page 361: 10
+Total hd=false for page 361: 0
+Total unassigned for page 361: 0
+
+Total hd=true for page 362: 10
+Total hd=false for page 362: 0
+Total unassigned for page 362: 0
+
+Total hd=true for page 363: 10
+Total hd=false for page 363: 0
+Total unassigned for page 363: 0
+
+Total hd=true for page 364: 10
+Total hd=false for page 364: 0
+Total unassigned for page 364: 0
+
+Total hd=true for page 365: 10
+Total hd=false for page 365: 0
+Total unassigned for page 365: 0
+
+Total hd=true for page 366: 10
+Total hd=false for page 366: 0
+Total unassigned for page 366: 0
+
+Total hd=true for page 367: 10
+Total hd=false for page 367: 0
+Total unassigned for page 367: 0
+
+Total hd=true for page 368: 10
+Total hd=false for page 368: 0
+Total unassigned for page 368: 0
+
+Total hd=true for page 369: 10
+Total hd=false for page 369: 0
+Total unassigned for page 369: 0
+
+Total hd=true for page 370: 10
+Total hd=false for page 370: 0
+Total unassigned for page 370: 0
+
+Total hd=true for page 371: 10
+Total hd=false for page 371: 0
+Total unassigned for page 371: 0
+
+Total hd=true for page 372: 10
+Total hd=false for page 372: 0
+Total unassigned for page 372: 0
+
+Total hd=true for page 373: 10
+Total hd=false for page 373: 0
+Total unassigned for page 373: 0
+
+Total hd=true for page 374: 10
+Total hd=false for page 374: 0
+Total unassigned for page 374: 0
+
+Total hd=true for page 375: 10
+Total hd=false for page 375: 0
+Total unassigned for page 375: 0
+
+Total hd=true for page 376: 10
+Total hd=false for page 376: 0
+Total unassigned for page 376: 0
+
+Total hd=true for page 377: 10
+Total hd=false for page 377: 0
+Total unassigned for page 377: 0
+
+Total hd=true for page 378: 10
+Total hd=false for page 378: 0
+Total unassigned for page 378: 0
+
+Total hd=true for page 379: 10
+Total hd=false for page 379: 0
+Total unassigned for page 379: 0
+
+Total hd=true for page 380: 10
+Total hd=false for page 380: 0
+Total unassigned for page 380: 0
+
+Total hd=true for page 381: 10
+Total hd=false for page 381: 0
+Total unassigned for page 381: 0
+
+Total hd=true for page 382: 10
+Total hd=false for page 382: 0
+Total unassigned for page 382: 0
+
+Total hd=true for page 383: 10
+Total hd=false for page 383: 0
+Total unassigned for page 383: 0
+
+Total hd=true for page 384: 10
+Total hd=false for page 384: 0
+Total unassigned for page 384: 0
+
+Total hd=true for page 385: 10
+Total hd=false for page 385: 0
+Total unassigned for page 385: 0
+
+Total hd=true for page 386: 10
+Total hd=false for page 386: 0
+Total unassigned for page 386: 0
+
+Total hd=true for page 387: 10
+Total hd=false for page 387: 0
+Total unassigned for page 387: 0
+
+Total hd=true for page 388: 10
+Total hd=false for page 388: 0
+Total unassigned for page 388: 0
+
+Total hd=true for page 389: 10
+Total hd=false for page 389: 0
+Total unassigned for page 389: 0
+
+Total hd=true for page 390: 10
+Total hd=false for page 390: 0
+Total unassigned for page 390: 0
+
+Total hd=true for page 391: 10
+Total hd=false for page 391: 0
+Total unassigned for page 391: 0
+
+Total hd=true for page 392: 10
+Total hd=false for page 392: 0
+Total unassigned for page 392: 0
+
+Total hd=true for page 393: 10
+Total hd=false for page 393: 0
+Total unassigned for page 393: 0
+
+Total hd=true for page 394: 10
+Total hd=false for page 394: 0
+Total unassigned for page 394: 0
+
+Total hd=true for page 395: 10
+Total hd=false for page 395: 0
+Total unassigned for page 395: 0
+
+Total hd=true for page 396: 10
+Total hd=false for page 396: 0
+Total unassigned for page 396: 0
+
+Total hd=true for page 397: 10
+Total hd=false for page 397: 0
+Total unassigned for page 397: 0
+
+Total hd=true for page 398: 10
+Total hd=false for page 398: 0
+Total unassigned for page 398: 0
+
+Total hd=true for page 399: 10
+Total hd=false for page 399: 0
+Total unassigned for page 399: 0
+
+Total hd=true for page 400: 10
+Total hd=false for page 400: 0
+Total unassigned for page 400: 0
+
+Total hd=true for page 401: 10
+Total hd=false for page 401: 0
+Total unassigned for page 401: 0
+
+Total hd=true for page 402: 10
+Total hd=false for page 402: 0
+Total unassigned for page 402: 0
+
+Total hd=true for page 403: 10
+Total hd=false for page 403: 0
+Total unassigned for page 403: 0
+
+Total hd=true for page 404: 10
+Total hd=false for page 404: 0
+Total unassigned for page 404: 0
+
+Total hd=true for page 405: 10
+Total hd=false for page 405: 0
+Total unassigned for page 405: 0
+
+Total hd=true for page 406: 10
+Total hd=false for page 406: 0
+Total unassigned for page 406: 0
+
+Total hd=true for page 407: 10
+Total hd=false for page 407: 0
+Total unassigned for page 407: 0
+
+Total hd=true for page 408: 10
+Total hd=false for page 408: 0
+Total unassigned for page 408: 0
+
+Total hd=true for page 409: 10
+Total hd=false for page 409: 0
+Total unassigned for page 409: 0
+
+Total hd=true for page 410: 10
+Total hd=false for page 410: 0
+Total unassigned for page 410: 0
+
+Total hd=true for page 411: 10
+Total hd=false for page 411: 0
+Total unassigned for page 411: 0
+
+Total hd=true for page 412: 10
+Total hd=false for page 412: 0
+Total unassigned for page 412: 0
+
+Total hd=true for page 413: 10
+Total hd=false for page 413: 0
+Total unassigned for page 413: 0
+
+Total hd=true for page 414: 10
+Total hd=false for page 414: 0
+Total unassigned for page 414: 0
+
+Total hd=true for page 415: 10
+Total hd=false for page 415: 0
+Total unassigned for page 415: 0
+
+Total hd=true for page 416: 10
+Total hd=false for page 416: 0
+Total unassigned for page 416: 0
+
+Total hd=true for page 417: 10
+Total hd=false for page 417: 0
+Total unassigned for page 417: 0
+
+Total hd=true for page 418: 10
+Total hd=false for page 418: 0
+Total unassigned for page 418: 0
+
+Total hd=true for page 419: 10
+Total hd=false for page 419: 0
+Total unassigned for page 419: 0
+
+Total hd=true for page 420: 10
+Total hd=false for page 420: 0
+Total unassigned for page 420: 0
+
+Total hd=true for page 421: 10
+Total hd=false for page 421: 0
+Total unassigned for page 421: 0
+
+Total hd=true for page 422: 10
+Total hd=false for page 422: 0
+Total unassigned for page 422: 0
+
+Total hd=true for page 423: 10
+Total hd=false for page 423: 0
+Total unassigned for page 423: 0
+
+Total hd=true for page 424: 10
+Total hd=false for page 424: 0
+Total unassigned for page 424: 0
+
+Total hd=true for page 425: 10
+Total hd=false for page 425: 0
+Total unassigned for page 425: 0
+
+Total hd=true for page 426: 10
+Total hd=false for page 426: 0
+Total unassigned for page 426: 0
+
+Total hd=true for page 427: 10
+Total hd=false for page 427: 0
+Total unassigned for page 427: 0
+
+Total hd=true for page 428: 10
+Total hd=false for page 428: 0
+Total unassigned for page 428: 0
+
+Total hd=true for page 429: 10
+Total hd=false for page 429: 0
+Total unassigned for page 429: 0
+
+Total hd=true for page 430: 10
+Total hd=false for page 430: 0
+Total unassigned for page 430: 0
+
+Total hd=true for page 431: 10
+Total hd=false for page 431: 0
+Total unassigned for page 431: 0
+
+Total hd=true for page 432: 10
+Total hd=false for page 432: 0
+Total unassigned for page 432: 0
+
+Total hd=true for page 433: 10
+Total hd=false for page 433: 0
+Total unassigned for page 433: 0
+
+Total hd=true for page 434: 10
+Total hd=false for page 434: 0
+Total unassigned for page 434: 0
+
+Total hd=true for page 435: 10
+Total hd=false for page 435: 0
+Total unassigned for page 435: 0
+
+Total hd=true for page 436: 10
+Total hd=false for page 436: 0
+Total unassigned for page 436: 0
+
+Total hd=true for page 437: 10
+Total hd=false for page 437: 0
+Total unassigned for page 437: 0
+
+Total hd=true for page 438: 10
+Total hd=false for page 438: 0
+Total unassigned for page 438: 0
+
+Total hd=true for page 439: 10
+Total hd=false for page 439: 0
+Total unassigned for page 439: 0
+
+Total hd=true for page 440: 10
+Total hd=false for page 440: 0
+Total unassigned for page 440: 0
+
+Total hd=true for page 441: 10
+Total hd=false for page 441: 0
+Total unassigned for page 441: 0
+
+Total hd=true for page 442: 10
+Total hd=false for page 442: 0
+Total unassigned for page 442: 0
+
+Total hd=true for page 443: 10
+Total hd=false for page 443: 0
+Total unassigned for page 443: 0
+
+Total hd=true for page 444: 10
+Total hd=false for page 444: 0
+Total unassigned for page 444: 0
+
+Total hd=true for page 445: 10
+Total hd=false for page 445: 0
+Total unassigned for page 445: 0
+
+Total hd=true for page 446: 10
+Total hd=false for page 446: 0
+Total unassigned for page 446: 0
+
+Total hd=true for page 447: 10
+Total hd=false for page 447: 0
+Total unassigned for page 447: 0
+
+Total hd=true for page 448: 10
+Total hd=false for page 448: 0
+Total unassigned for page 448: 0
+
+Total hd=true for page 449: 10
+Total hd=false for page 449: 0
+Total unassigned for page 449: 0
+
+Total hd=true for page 450: 10
+Total hd=false for page 450: 0
+Total unassigned for page 450: 0
+
+Total hd=true for page 451: 10
+Total hd=false for page 451: 0
+Total unassigned for page 451: 0
+
+Total hd=true for page 452: 10
+Total hd=false for page 452: 0
+Total unassigned for page 452: 0
+
+Total hd=true for page 453: 10
+Total hd=false for page 453: 0
+Total unassigned for page 453: 0
+
+Total hd=true for page 454: 10
+Total hd=false for page 454: 0
+Total unassigned for page 454: 0
+
+Total hd=true for page 455: 10
+Total hd=false for page 455: 0
+Total unassigned for page 455: 0
+
+Total hd=true for page 456: 10
+Total hd=false for page 456: 0
+Total unassigned for page 456: 0
+
+Total hd=true for page 457: 10
+Total hd=false for page 457: 0
+Total unassigned for page 457: 0
+
+Total hd=true for page 458: 10
+Total hd=false for page 458: 0
+Total unassigned for page 458: 0
+
+Total hd=true for page 459: 10
+Total hd=false for page 459: 0
+Total unassigned for page 459: 0
+
+Total hd=true for page 460: 10
+Total hd=false for page 460: 0
+Total unassigned for page 460: 0
+
+Total hd=true for page 461: 10
+Total hd=false for page 461: 0
+Total unassigned for page 461: 0
+
+Total hd=true for page 462: 10
+Total hd=false for page 462: 0
+Total unassigned for page 462: 0
+
+Total hd=true for page 463: 10
+Total hd=false for page 463: 0
+Total unassigned for page 463: 0
+
+Total hd=true for page 464: 10
+Total hd=false for page 464: 0
+Total unassigned for page 464: 0
+
+Total hd=true for page 465: 10
+Total hd=false for page 465: 0
+Total unassigned for page 465: 0
+
+Total hd=true for page 466: 10
+Total hd=false for page 466: 0
+Total unassigned for page 466: 0
+
+Total hd=true for page 467: 10
+Total hd=false for page 467: 0
+Total unassigned for page 467: 0
+
+Total hd=true for page 468: 10
+Total hd=false for page 468: 0
+Total unassigned for page 468: 0
+
+Total hd=true for page 469: 10
+Total hd=false for page 469: 0
+Total unassigned for page 469: 0
+
+Total hd=true for page 470: 10
+Total hd=false for page 470: 0
+Total unassigned for page 470: 0
+
+Total hd=true for page 471: 10
+Total hd=false for page 471: 0
+Total unassigned for page 471: 0
+
+Total hd=true for page 472: 10
+Total hd=false for page 472: 0
+Total unassigned for page 472: 0
+
+Total hd=true for page 473: 10
+Total hd=false for page 473: 0
+Total unassigned for page 473: 0
+
+Total hd=true for page 474: 10
+Total hd=false for page 474: 0
+Total unassigned for page 474: 0
+
+Total hd=true for page 475: 10
+Total hd=false for page 475: 0
+Total unassigned for page 475: 0
+
+Total hd=true for page 476: 10
+Total hd=false for page 476: 0
+Total unassigned for page 476: 0
+
+Total hd=true for page 477: 10
+Total hd=false for page 477: 0
+Total unassigned for page 477: 0
+
+Total hd=true for page 478: 10
+Total hd=false for page 478: 0
+Total unassigned for page 478: 0
+
+Total hd=true for page 479: 10
+Total hd=false for page 479: 0
+Total unassigned for page 479: 0
+
+Total hd=true for page 480: 10
+Total hd=false for page 480: 0
+Total unassigned for page 480: 0
+
+Total hd=true for page 481: 10
+Total hd=false for page 481: 0
+Total unassigned for page 481: 0
+
+Total hd=true for page 482: 10
+Total hd=false for page 482: 0
+Total unassigned for page 482: 0
+
+Total hd=true for page 483: 10
+Total hd=false for page 483: 0
+Total unassigned for page 483: 0
+
+Total hd=true for page 484: 10
+Total hd=false for page 484: 0
+Total unassigned for page 484: 0
+
+Total hd=true for page 485: 10
+Total hd=false for page 485: 0
+Total unassigned for page 485: 0
+
+Total hd=true for page 486: 10
+Total hd=false for page 486: 0
+Total unassigned for page 486: 0
+
+Total hd=true for page 487: 10
+Total hd=false for page 487: 0
+Total unassigned for page 487: 0
+
+Total hd=true for page 488: 10
+Total hd=false for page 488: 0
+Total unassigned for page 488: 0
+
+Total hd=true for page 489: 10
+Total hd=false for page 489: 0
+Total unassigned for page 489: 0
+
+Total hd=true for page 490: 10
+Total hd=false for page 490: 0
+Total unassigned for page 490: 0
+
+Total hd=true for page 491: 10
+Total hd=false for page 491: 0
+Total unassigned for page 491: 0
+
+Total hd=true for page 492: 10
+Total hd=false for page 492: 0
+Total unassigned for page 492: 0
+
+Total hd=true for page 493: 10
+Total hd=false for page 493: 0
+Total unassigned for page 493: 0
+
+Total hd=true for page 494: 10
+Total hd=false for page 494: 0
+Total unassigned for page 494: 0
+
+Total hd=true for page 495: 10
+Total hd=false for page 495: 0
+Total unassigned for page 495: 0
+
+Total hd=true for page 496: 10
+Total hd=false for page 496: 0
+Total unassigned for page 496: 0
+
+Total hd=true for page 497: 10
+Total hd=false for page 497: 0
+Total unassigned for page 497: 0
+
+Total hd=true for page 498: 10
+Total hd=false for page 498: 0
+Total unassigned for page 498: 0
+
+Total hd=true for page 499: 10
+Total hd=false for page 499: 0
+Total unassigned for page 499: 0
+
+
+Grand total hd=true: 4978
+Grand total hd=false: 12
+Grand total unassigned: 0
